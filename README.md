@@ -1,6 +1,12 @@
 # 📝 To-Do List Application
 
+<<<<<<< HEAD
 A responsive task management application built with vanilla JavaScript, featuring Local Storage persistence and a modern glass-morphism UI.
+=======
+A responsive task management application built with vanilla Jav
+
+aScript, featuring Local Storage persistence and a modern glass-morphism UI.
+>>>>>>> 4c5928a47b064d723d9aaadc14e553a158a98f51
 
 ![To-Do List App](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
